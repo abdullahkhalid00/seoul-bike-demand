@@ -15,23 +15,23 @@ How can we effectively predict bike rental demand by leveraging factors such as 
 Clone the repository and navigate to the root folder.
 
 ```bash
-$git clone <repo-link>
-$cd seoul-bike-demand
+$ git clone <repo-link>
+$ cd seoul-bike-demand
 ```
 
 Create a `virtualenv` and install the required dependencies mentioned in `requirements.txt`.
 
 ```bash
-$virutalenv env
-$source env/bin/activate
-$python -m pip install -r requirements.txt
+$ virutalenv env
+$ source env/bin/activate
+$ python -m pip install -r requirements.txt
 ```
 
 Navigate to the `notebook` directory and lauch jupyter lab.
 
 ```
-$cd notebook
-$jupyter lab
+$ cd notebook
+$ jupyter lab
 ```
 
 ## Acknowledgements
